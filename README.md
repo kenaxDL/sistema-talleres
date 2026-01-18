@@ -10,9 +10,11 @@ Frontend
 - JavaScript
 - HTML
 - CSS
+
 Backend
 - Node.js
 - Express
+
 Herramientas
 - Git
 - GitHub
